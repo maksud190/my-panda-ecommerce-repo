@@ -1,0 +1,38 @@
+.panda-navbar{
+    margin: 0 110px;
+}
+.banner{
+    margin-top: 150px;
+    height: 20%;
+}
+.panda-bg{
+    background-color: #fceae8;
+}
+.panda-bg-catagory{
+    background-color: #da70d6;
+}
+.catagories{
+    width: 100%;
+    margin-bottom: 80px;
+    margin-top: 100px;
+}
+.panda-shoes{
+    padding-top: 50px;
+}
+.panda-bags{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.panda-footer{
+    margin-top: 80px;
+}
+.panda-banner-button{
+    color: white;
+    background-color: #ff2c7f;
+    margin-top: 40px;
+}
+.panda-card-btn{
+    border: 0;
+    color: white;
+    background-color: #ff2c7f;
+}
